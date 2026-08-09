@@ -100,14 +100,6 @@ I work primarily with **SQL**, **Python** (Pandas, NumPy, Matplotlib, Seaborn), 
 
 </div>
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-  ![Trophy](https://github-profile-trophy-soulteary.vercel.app/?username=ArnavDev-code&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true)
-
-</div>
-
 
 ## ✍️ Dev Quote
 
