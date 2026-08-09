@@ -84,13 +84,9 @@ I work primarily with **SQL**, **Python** (Pandas, NumPy, Matplotlib, Seaborn), 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavDev-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavDev-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FFD700&currStreakLabel=36BCF7" alt="GitHub Streak" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavDev-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&layout=compact&card_width=450" alt="Top Languages" />
-</div>
 
 ## 🎯 Coding Activity
 
@@ -99,7 +95,6 @@ I work primarily with **SQL**, **Python** (Pandas, NumPy, Matplotlib, Seaborn), 
   ![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=ArnavDev-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=FFD700&point=36BCF7)
 
 </div>
-
 
 ## ✍️ Dev Quote
 
