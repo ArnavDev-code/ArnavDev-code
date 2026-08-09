@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnavnigam&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/arnavnigam?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/arnavnigam?label=Stars&style=for-the-badge&color=ffd700" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ArnavDev-code&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ArnavDev-code?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ArnavDev-code?label=Stars&style=for-the-badge&color=ffd700" alt="GitHub Stars" />
 </div>
 
 <br/>
@@ -80,23 +80,23 @@ I work primarily with **SQL**, **Python** (Pandas, NumPy, Matplotlib, Seaborn), 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavnigam&theme=github_dark" alt="Profile Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnavDev-code&theme=github_dark" alt="Profile Summary" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavnigam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavnigam&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FFD700&currStreakLabel=36BCF7" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavDev-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavDev-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FFD700&currStreakLabel=36BCF7" alt="GitHub Streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavnigam&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&layout=compact&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavDev-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&layout=compact&card_width=450" alt="Top Languages" />
 </div>
 
 ## 🎯 Coding Activity
 
 <div align="center">
 
-  ![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=arnavnigam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=FFD700&point=36BCF7)
+  ![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=ArnavDev-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=FFD700&point=36BCF7)
 
 </div>
 
@@ -104,7 +104,7 @@ I work primarily with **SQL**, **Python** (Pandas, NumPy, Matplotlib, Seaborn), 
 
 <div align="center">
 
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=arnavnigam&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=ArnavDev-code&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true)
 
 </div>
 
@@ -120,7 +120,7 @@ I work primarily with **SQL**, **Python** (Pandas, NumPy, Matplotlib, Seaborn), 
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavnigam/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavnigamknp@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ArnavDev-code/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ArnavDev-codeknp@gmail.com)
 
 </div>
